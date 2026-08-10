@@ -1,5 +1,6 @@
 # pysnake
-A multi-stage python program locker which uses dynamic runtime reconstruction, which lets you obfuscate and password protect files with ease.
+A multi-stage python program locker that uses dynamic runtime reconstruction, which lets you obfuscate and password protect files with ease.
+I personally believe that this is unhookable unlike most python obfuscators, which you can just use ``dis.dis()`` on, or hook ``exec()``.
 
 # how to use
 This is a simple way to run pysnake from command prompt, alternatively, you can run the main.js file for standalone use when python isn't installed on the current machine, or the main.py file itself.
