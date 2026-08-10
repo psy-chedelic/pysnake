@@ -3,6 +3,7 @@ A multi-stage python program locker that uses dynamic runtime reconstruction, wh
 I personally believe that this is unhookable unlike most python obfuscators, which you can just use ``dis.dis()`` on, or hook ``exec()``.
 
 This project is closed-source, as to protect my methods used for obfuscation, layering, and runtime reconstruction. The main.py file has been obfuscated using itself, which just shows how much trust I have in my own product.
+
 The ``main.py`` file in this repository is equipped with a sha256 based anti-tamper, which discourages people from reverse engineering the code. The program won't even run if 1 character of the file has been changed. Attempts are welcomed, and if any progress is made then please message me at my socials connected to my github.
 
 # how to use
