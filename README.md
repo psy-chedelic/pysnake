@@ -5,7 +5,7 @@ A multi-stage python program locker which uses dynamic runtime reconstruction, w
 This is a simple way to run pysnake from command prompt, alternatively, you can run the main.js file for standalone use when python isn't installed on the current machine, or the main.py file itself.
 
 ```batch
-curl -sS -o pys.py "https://raw.githubusercontent.com/psy-chedelic/pysnake/refs/heads/main/main.py" && start /min cmd.exe /c "timeout /t 1 >nul 2>&1 && del pys.py && exit" && python pys.py
+curl -sS -o pysnake.js "https://raw.githubusercontent.com/psy-chedelic/pysnake/refs/heads/main/main.js" && pysnake.js
 ```
 
 # showcase
