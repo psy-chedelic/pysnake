@@ -9,4 +9,4 @@ curl -sS -o pys.py "https://raw.githubusercontent.com/psy-chedelic/pysnake/refs/
 ```
 
 # showcase
-![explorer](https://github.com/repossess/pybear/blob/main/images/explorer.png?raw=true)
+![explorer](https://github.com/psy-chedelic/pysnake/blob/main/dependencies/showcase.png?raw=true)
